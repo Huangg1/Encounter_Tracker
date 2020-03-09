@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Encounter Tracker</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="creatures">Creatures</string>
+    <string name="add_encounter">Add Encounter</string>
+    <string name="enter_an_encounter_name">Enter Encounter Name</string>
+    <string name="temp">Temp</string>
+    <string name="add_creature">Add Creature</string>
+    <string name="ac">AC</string>
+    <string name="hp">HP</string>
+    <string name="cr">CR</string>
+    <string name="str">STR</string>
+    <string name="dex">DEX</string>
+    <string name="con">CON</string>
+    <string name="intel">INT</string>
+    <string name="wis">WIS</string>
+    <string name="cha">CHA</string>
+    <string name="attributes">Attributes</string>
+    <string name="spells">Spells</string>
+    <string name="actions">Actions</string>
+    <string name="legendary_actions">Legendary Actions</string>
+    <string name="how_many_do_you_want_to_add">How many do you want to add?</string>
+    <string name="choose_your_encounter">Choose your encounter:</string>
+    <string name="delete_creature">Delete Creature</string>
+    <string name="delete_encounter">Delete Encounter</string>
+    <string name="select_a_creature">Select a creature:</string>
+    <string name="how_many_do_you_want_to_delete">How many do you want to delete?</string>
+    <string name="search">Search</string>
+    <string name="creature">Creature</string>
+    <string name="Spells">Spells</string>
+    <string name="Actions">Actions</string>
+    <string name="Legendary_Actions">Legendary Actions</string>
+</resources>
